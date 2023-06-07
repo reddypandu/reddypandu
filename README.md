@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application
 - 🌱 I’m currently learning Full stack (Front-end,Back-end)
 - 💞️ I’m looking to collaborate on web application
-- 📫 How to reach i as a Proffesional developer
+- 📫 How to reach me
 
 <!---
 reddypandu/reddypandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
